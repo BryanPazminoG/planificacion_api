@@ -111,3 +111,7 @@ daff3c,::1,GET,http://localhost/planificacion_api/public/index.php/combinado,170
 232c17,::1,GET,http://localhost/planificacion_api/public/index.php/combinado,1706628526,,200
 b30550,::1,GET,http://localhost/planificacion_api/public/index.php/combinado,1706629285,,200
 773539,::1,GET,http://localhost/planificacion_api/public/index.php/combinado,1706629382,,200
+2d31e0,::1,GET,http://localhost/planificacion_api/public/index.php/prediccion,1706630313,dfa916,404
+dfa916,::1,GET,http://localhost/planificacion_api/public/index.php/prediccion,1706630313,,404
+899d6b,::1,GET,http://localhost/planificacion_api/public/index.php/predicciones,1706630323,4d2ce3,500
+4d2ce3,::1,GET,http://localhost/planificacion_api/public/index.php/predicciones,1706630323,,500
